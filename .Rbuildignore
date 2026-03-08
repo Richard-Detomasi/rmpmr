@@ -4,3 +4,7 @@
 ^project.*\.tar\.gz$
 ^project.*\.tgz$
 ^data-raw$
+^LICENSE\.md$
+^rmpmr\.Rcheck$
+^rmpmr.*\.tar\.gz$
+^rmpmr.*\.tgz$

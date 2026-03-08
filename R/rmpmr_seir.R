@@ -18,7 +18,7 @@
 #' @return list of lists
 #' @export
 #' @examples
-#' \donttest{
+#' \dontrun{
 #'  rmpmr_seir(pop, dist_col_URY)
 #' }
  

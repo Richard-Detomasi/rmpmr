@@ -57,7 +57,7 @@ list of lists
 Dinamic model
 }
 \examples{
-\donttest{
+\dontrun{
  rmpmr_seir(pop, dist_col_URY)
 }
 }

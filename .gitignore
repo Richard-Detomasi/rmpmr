@@ -51,3 +51,6 @@ rsconnect/
 project.Rcheck/
 project*.tar.gz
 project*.tgz
+rmpmr.Rcheck/
+rmpmr*.tar.gz
+rmpmr*.tgz

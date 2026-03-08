@@ -11,8 +11,8 @@
 #' @export
 #'
 #' @examples
-#' \donttest{
-#'  modelados <- initial_par(pop_rnd, dist_col_URY)
+#' \dontrun{
+#'  modelados <- initial_par(pop, dist_col_URY)
 #' }
 
 initial_par <- function(pop, dist, init_infect = 5, init_cols = 1, itera = 1, ...) {

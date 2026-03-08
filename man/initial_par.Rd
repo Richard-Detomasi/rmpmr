@@ -26,7 +26,7 @@ list of lists
 initial_par
 }
 \examples{
-\donttest{
- modelados <- initial_par(pop_rnd, dist_col_URY)
+\dontrun{
+ modelados <- initial_par(pop, dist_col_URY)
 }
 }

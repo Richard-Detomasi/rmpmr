@@ -24,7 +24,7 @@ list of lists
 persistence
 }
 \examples{
-\donttest{
+\dontrun{
  persistence(pop, dist_col_URY)
 }
 }
